@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riths0321
 - 👀 I’m interested in ...Webdev and devops. 
 - 🌱 I’m currently learning ...JavaScript programming language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...New Startup and Professional Tech companies. 
 - 📫 How to reach me ...email->ritiksahu0321@gmail.com
 
 <!---
