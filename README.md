@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riths0321
+- 👋 Hi, I’m Ritik Bharatpure, 22, from Bhopal(M.P.).Like Reading ,Writing and JavaScript.
 - 👀 I’m interested in ...Webdev and devops. 
 - 🌱 I’m currently learning ...JavaScript programming language
 - 💞️ I’m looking to collaborate on ...New Startup and Professional Tech companies. 
